@@ -227,6 +227,10 @@
 [Website](https://mals.au)
 
 
+* **South East Anti-Racists**<br>
+[Facebook](https://www.facebook.com/SEARCommunity/)
+
+
 
 
 # TV / RADIO / ETC:
