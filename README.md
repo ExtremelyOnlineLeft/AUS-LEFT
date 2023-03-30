@@ -198,7 +198,7 @@
 
 
 * **Yelling At Racist Dogs**<br>
-[Facebook](https://www.facebook.com/yard.aus/)
+[Facebook](https://www.facebook.com/yard.aus)
 
 
 ## VICTORIA:
@@ -217,6 +217,10 @@
 
 * **IRL InfoShop**<br>
 [Website](https://www.irlinfoshop.org)
+
+
+* **Jews Against Fascism**<br>
+[Facebook](https://www.facebook.com/Jewsagainstfascism)
 
 
 * **Melbourne Activist Legal Support**<br>
