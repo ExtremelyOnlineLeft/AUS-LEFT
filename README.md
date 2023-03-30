@@ -201,6 +201,12 @@
 [Facebook](https://www.facebook.com/yard.aus)
 
 
+## NEW SOUTH WALES:
+
+* **Students For Palestine**<br>
+[Facebook](https://www.facebook.com/sfpunsw/)
+
+
 ## VICTORIA:
 
 * **Catalyst Social Centre**<br>
