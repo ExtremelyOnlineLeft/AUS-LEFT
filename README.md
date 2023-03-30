@@ -185,6 +185,10 @@
 
 ## NATIONAL:
 
+* **Australian Unemployed Workers’ Union**<br>
+[Website](https://www.auwu.org.au)
+
+
 * **Food Not Bombs**<br>
 [Website](https://www.foodnotbombs.net/australia.html)
 
@@ -193,8 +197,12 @@
 [Website](https://www.iww.org.au)
 
 
-* **RAFFWU**<br>
+* **Retail and Fast Food Workers Union**<br>
 [Website](https://raffwu.org.au)
+
+
+* **Renters & Housing Union**<br>
+[Website](https://rahu.org.au)
 
 
 * **Yelling At Racist Dogs**<br>
@@ -204,7 +212,7 @@
 ## NEW SOUTH WALES:
 
 * **Students For Palestine**<br>
-[Facebook](https://www.facebook.com/sfpunsw/)
+[Facebook](https://www.facebook.com/sfpunsw)
 
 
 ## VICTORIA:
@@ -213,7 +221,7 @@
 [Website](https://catalystcentre.net)
 
 
-* **CUDL**<br>
+* **Community Union Defence League**<br>
 [Website](https://www.cudl.org.au)
 
 
@@ -234,7 +242,7 @@
 
 
 * **South East Anti-Racists**<br>
-[Facebook](https://www.facebook.com/SEARCommunity/)
+[Facebook](https://www.facebook.com/SEARCommunity)
 
 
 
@@ -248,11 +256,15 @@
 
 
 * **Overland**<br>
-[Website](https://overland.org.au/)
+[Website](https://overland.org.au)
 
 
 * **reallygoodradio**<br>
 [Twitch](https://www.twitch.tv/reallygoodradio)
+
+
+* **Red Flag**<br>
+[Website](https://redflag.org.au)
 
 
 ## VICTORIA:
