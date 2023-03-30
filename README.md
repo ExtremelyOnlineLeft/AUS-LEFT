@@ -277,6 +277,5 @@
 CHANGE-LOG:
 Sorry for the long time between revisions. I finally got around to updating the links and migrating them to GitHub.
 It would be great to put additional links for the existing list where available too.
-I still have another 20-ish or so to be added in the coming week.
 Help contribute here - https://discordapp.com/invite/aku5CDk
 ```
