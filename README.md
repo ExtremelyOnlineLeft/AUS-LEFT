@@ -239,7 +239,7 @@
 
 
 
-# TV / RADIO / ETC:
+# TV, RADIO & MISC:
 
 ## NATIONAL:
 
